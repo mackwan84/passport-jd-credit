@@ -1,0 +1,38 @@
+{
+  "name": "passport-jd-credit",
+  "version": "0.1.0",
+  "description": "Passport strategy for authenticating with Alipay",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "debug": "^3.1.0",
+    "json3": "^3.3.2",
+    "lodash": "^4.17.4",
+    "node-rsa": "^0.4.2",
+    "passport": "^0.4.0",
+    "passport-strategy": "^1.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackwan84/passport-jd-credit.git"
+  },
+  "keywords": [
+    "passport",
+    "jd-credit"
+  ],
+  "author": "Mac Kwan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mackwan84/passport-jd-credit/issues"
+  },
+  "homepage": "https://github.com/mackwan84/passport-jd-credit#readme"
+}

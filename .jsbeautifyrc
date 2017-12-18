@@ -1,0 +1,11 @@
+{
+    "eol": "\n",
+    "indent_size": 4,
+    "indent_char": " ",
+    "indent_with_tabs": false,
+    "keep_array_indentation": false,
+    "keep_function_indentation": false,
+    "css": {
+        "indent_size": 4
+    }
+}
