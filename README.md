@@ -1,5 +1,5 @@
-# passport-alipay
+# passport-jd-credit
 
-Passport strategy for authenticating with Alipay
+Passport strategy for authenticating with JD-Credit
 
-支付宝生活号OAuth 2.0授权
+京东小白信用OAuth 2.0授权
