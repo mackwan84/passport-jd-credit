@@ -1,6 +1,6 @@
 {
   "name": "passport-jd-credit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Passport strategy for authenticating with Alipay",
   "main": "index.js",
   "directories": {
