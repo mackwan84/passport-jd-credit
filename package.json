@@ -1,6 +1,6 @@
 {
   "name": "passport-jd-credit",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Passport strategy for authenticating with JD-Credit",
   "main": "index.js",
   "directories": {
