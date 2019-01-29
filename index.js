@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-var Strategy = require('./lib/strategy');
+const Strategy = require('./lib/strategy');
 
 /**
  * Expose `Strategy` directly from package.
